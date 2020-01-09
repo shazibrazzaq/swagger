@@ -1,6 +1,6 @@
 {
-    "name": "/",
-    "description": "",
+    "name": "techniques/swagger",
+    "description": "swagger price2spy api",
     "keywords": [
         "swagger",
         "php",
